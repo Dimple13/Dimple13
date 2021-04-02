@@ -4,7 +4,7 @@
 :house: Apart from that,I like to read novels,hit the gym or just go for a casual run.<br>
 🌱 I also love reading about the new technological advancements occuring in my field.<br>
 ### Technical Skills
--I am familiar wit C,Java,Python and PHP.<br>
+-I am familiar with C,Java,Python and PHP.<br>
 -I am Proficient in React, Laravel, Android Studio,Node js.<br>
 -I am well versed in Web Development ie. HTML, CSS, JavaScript,Sass.<br>
 -I also love data analytics and machine learning.:heart:<br>
