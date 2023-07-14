@@ -1,6 +1,6 @@
 ### Hi there, I am Dimple!:woman:
-:mortar_board: I’m currently pursuing my BE in Computer Science from VESIT,Chembur,Mumbai.<br>
-⚡ I am an aspiring AI Data analyst.<br>
+:mortar_board: I’m currently pursuing my Masters in Computer Science from Purdue University, West Lafayette, Indiana.<br>
+⚡ I am an aspiring Data analyst.<br>
 :house: Apart from that,I like to read novels,hit the gym or just go for a casual run.<br>
 🌱 I also love reading about the new technological advancements occuring in my field.<br>
 ### Technical Skills
