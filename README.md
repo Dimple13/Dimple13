@@ -8,9 +8,10 @@
 -I am Proficient in React, Laravel, Android Studio,Node js.<br>
 -I am well versed in Web Development ie. HTML, CSS, JavaScript,Sass.<br>
 -I also love data analytics and machine learning.:heart:<br>
--Currently, I am trying to learn Angular and also exploring machine learning. <br>
--For more details check the below link!<br>
+-Currently, I am trying to learn Angular and also exploring machine learning. <be>
 <!--
+For more details check the below link!<br>
+
 https://keen-mccarthy-774cb0.netlify.app
  -->
 <!--
